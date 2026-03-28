@@ -1,12 +1,13 @@
 ---
-name: 🖥 💡 Models Update
-about: An update, addition, or removal of one or more of the models, components, relationships, workflows, or policies within Meshery Models.
-title: '[Models] '
-labels: 
-- area/models
-- area/devops
+name: "\U0001F5A5 \U0001F4A1 Models Update"
+about: An update, addition, or removal of one or more of the models, components, relationships,
+  workflows, or policies within Meshery Models.
+title: "[Models] "
+labels: ''
 assignees: ''
+
 ---
+
 ### Current Situation
 <!-- A brief description of the current state of Models -->
 

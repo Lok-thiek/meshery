@@ -1,9 +1,10 @@
 ---
-name: ⌨️ 🐛 mesheryctl Bug Report
+name: "⌨️ \U0001F41B mesheryctl Bug Report"
 about: Report a bug in Meshery's CLI
-title: '[mesheryctl]'
-labels: component/mesheryctl, language/go, kind/bug
+title: "[mesheryctl]"
+labels: ''
 assignees: ''
+
 ---
 
 <!-- Please update the mesheryctl Command Tracker spreadsheet -->

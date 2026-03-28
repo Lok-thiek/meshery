@@ -1,10 +1,12 @@
 ---
-name: 📄 Documentation issue
+name: "\U0001F4C4 Documentation issue"
 about: Issues related to documentation.
-title: '[Docs]'
-labels: 'area/docs, framework/jekyll, language/markdown, help wanted'
+title: "[Docs]"
+labels: help wanted
 assignees: ''
+
 ---
+
 ### Current State
 
 

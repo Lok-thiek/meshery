@@ -1,11 +1,11 @@
 ---
-name: ⌨️ 🐛 Meshery Extensions Bug Report
+name: "⌨️ \U0001F41B Meshery Extensions Bug Report"
 about: Report a bug in Meshery Extensions
-title: '[Extensions]'
-labels: kind/bug, component/extensions
+title: "[Extensions]"
+labels: ''
 assignees: ''
----
 
+---
 
 ### Current Behavior
 <!-- A brief description of what the problem is. (e.g. I need to be able to...) -->

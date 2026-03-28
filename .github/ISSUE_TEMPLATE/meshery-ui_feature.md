@@ -1,9 +1,10 @@
 ---
-name: 🖥 💡 Meshery UI Feature Request
+name: "\U0001F5A5 \U0001F4A1 Meshery UI Feature Request"
 about: Request an enhancement in Meshery's UI
-title: '[UI]'
-labels: component/ui, language/javascript, framework/react, kind/enhancement
+title: "[UI]"
+labels: ''
 assignees: ''
+
 ---
 
 ### Current Behavior

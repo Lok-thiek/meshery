@@ -1,10 +1,12 @@
 ---
-name: 🐛 General Bug Report
+name: "\U0001F41B General Bug Report"
 about: Report an issue to help improve the project.
 title: ''
-labels: 'kind/bug'
+labels: ''
 assignees: ''
+
 ---
+
 ### Current Behavior
 <!-- A brief description of the issue. -->
 

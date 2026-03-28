@@ -1,13 +1,12 @@
 ---
-name: 🖥 💡 Model Catalog
+name: "\U0001F5A5 \U0001F4A1 Model Catalog"
 about: Create, export, and publish models in the Meshery Catalog
-title: '[Model catalog]'
-labels: 
-- area/models
-- hacktoberfest
-- help wanted
+title: "[Model catalog]"
+labels: help wanted
 assignees: ''
+
 ---
+
 ### Design description
 <!-- A brief description of the design -->
 

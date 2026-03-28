@@ -1,11 +1,11 @@
 ---
-name: 🖥 💡 Meshery Extensions Feature Request
+name: "\U0001F5A5 \U0001F4A1 Meshery Extensions Feature Request"
 about: Request an enhancement in Meshery Extensions
-title: '[Extensions]'
-labels: kind/enhancement, component/extensions
+title: "[Extensions]"
+labels: ''
 assignees: ''
----
 
+---
 
 ### Current Behavior
 <!-- A brief description of what the problem is. (e.g. I need to be able to...) -->

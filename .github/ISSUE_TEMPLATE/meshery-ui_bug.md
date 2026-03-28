@@ -1,9 +1,10 @@
 ---
-name: 🖥 🐛 Meshery UI Bug Report
+name: "\U0001F5A5 \U0001F41B Meshery UI Bug Report"
 about: Report a bug in Meshery's UI
-title: '[UI]'
-labels: component/ui, language/javascript, framework/react, kind/bug
+title: "[UI]"
+labels: ''
 assignees: ''
+
 ---
 
 ### Current Behavior

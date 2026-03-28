@@ -1,12 +1,12 @@
 ---
-name: 🖥 💡 Meshery design
+name: "\U0001F5A5 \U0001F4A1 Meshery design"
 about: Create, export, and publish designs or models in the Meshery Catalog
-title: '[Meshery Design]'
-labels: 
-- area/models
-- hacktoberfest
+title: "[Meshery Design]"
+labels: ''
 assignees: ''
+
 ---
+
 ### Design description
 <!-- A brief description of the design -->
 

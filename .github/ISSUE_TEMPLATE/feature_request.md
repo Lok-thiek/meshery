@@ -1,10 +1,12 @@
 ---
-name: 💡 General Feature Request
+name: "\U0001F4A1 General Feature Request"
 about: Suggest an enhancement to Meshery.
 title: ''
-labels: 'kind/enhancement'
+labels: ''
 assignees: ''
+
 ---
+
 ### Current Behavior
 <!-- A brief description of what the problem is. (e.g. I need to be able to...) -->
 

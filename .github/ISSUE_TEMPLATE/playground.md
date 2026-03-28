@@ -1,10 +1,12 @@
 ---
-name: 💡 Playground Feedback
+name: "\U0001F4A1 Playground Feedback"
 about: Offer feedback on the cloud native playground
 title: ''
-labels: 'playground'
+labels: ''
 assignees: ''
+
 ---
+
 ### What I don't like about the Playground
 <!-- A brief description of what the problem is. (e.g. I need to be able to...) -->
 

@@ -1,9 +1,10 @@
 ---
-name: ⌨️ 💡 mesheryctl Feature Request
+name: "⌨️ \U0001F4A1 mesheryctl Feature Request"
 about: Request an enhancement in Meshery's CLI
-title: '[mesheryctl]'
-labels: component/mesheryctl, language/go, kind/enhancement
+title: "[mesheryctl]"
+labels: ''
 assignees: ''
+
 ---
 
 <!-- Please update the mesheryctl Command Tracker spreadsheet -->

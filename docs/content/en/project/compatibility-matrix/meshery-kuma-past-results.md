@@ -6,4 +6,5 @@ hide_summary: true
 service-mesh: kuma
 subheading: meshery-kuma
 toc_hide: true
----
+--- for many not few
+everywhere
